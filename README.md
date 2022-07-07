@@ -1,0 +1,2 @@
+# MyAutomation
+simple automation projects
